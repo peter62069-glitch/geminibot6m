@@ -1,0 +1,99 @@
+{
+    "bot_token": "9191272564:AAFSmnHwwSy6T2XPxpWQ195hB0uWCPZzVoA",
+    "sms_provider": "simxpro",
+    "sms_api_key": "fS5DlwcHNaXyvE3gFMXh76N1vs5OBkCn0yLifWs0",
+    "country_id": "6",
+    "service_code": "bme",
+    "selected_operator": "7",
+    "admin_ids": [
+        8517258178
+    ],
+    "operators": {
+        "31": {
+            "name": "Operator 31",
+            "price": 7.0,
+            "currency": "\u20b9",
+            "operator_id": "31",
+            "service": "bme"
+        },
+        "7": {
+            "name": "Operator 7",
+            "price": 12.42,
+            "currency": "\u20b9",
+            "operator_id": "7",
+            "service": "bme"
+        }
+    },
+    "stats": {
+        "total_claims": 6,
+        "total_attempts": 305,
+        "total_refunded": 0
+    },
+    "providers": {
+        "simxpro": {
+            "name": "Simxpro",
+            "url": "https://simxpro.org/api/stubs/handler_api.php",
+            "default_country": "6",
+            "default_service": "bme",
+            "domain": "simxpro.org",
+            "charges_info": "Operator 31: \u20b97.00 | Operator 7: \u20b912.42",
+            "currency": "\u20b9",
+            "api_key": "fS5DlwcHNaXyvE3gFMXh76N1vs5OBkCn0yLifWs0"
+        },
+        "grizzlysms": {
+            "name": "Grizzly SMS",
+            "url": "https://api.grizzlysms.com/stubs/handler_api.php",
+            "default_country": "6",
+            "default_service": "im3",
+            "domain": "grizzlysms.com",
+            "charges_info": "myIM3 Indosat: ~\u20b97.50 \u2013 \u20b911.00",
+            "currency": "\u20b9"
+        },
+        "sms_activate": {
+            "name": "SMS-Activate",
+            "domain": "sms-activate.org",
+            "url": "https://api.sms-activate.org/stubs/handler_api.php",
+            "default_country": "6",
+            "default_service": "im3",
+            "currency": "\u20b9",
+            "charges_info": "myIM3 Indosat: ~\u20b98.00 \u2013 \u20b912.00",
+            "price": 8.0
+        },
+        "nexnum": {
+            "name": "NexNum.in",
+            "domain": "nexnum.in",
+            "url": "https://nexnum.in/stubs/handler_api.php",
+            "api_key": "",
+            "default_country": "6",
+            "default_service": "is",
+            "currency": "\u20b9",
+            "charges_info": "myIM3 Indosat: ~\u20b97.00 \u2013 \u20b910.00",
+            "price": 7.5
+        },
+        "uotp": {
+            "name": "uOTP.store",
+            "domain": "uotp.store",
+            "url": "https://uotp.store/api/stubs/handler_api.php",
+            "api_key": "PG0wnEUis2v9AJagtKghxtbvIhiNlOwe1yWUDMKZ",
+            "default_country": "6",
+            "default_service": "bme",
+            "currency": "\u20b9",
+            "charges_info": "Operator (Budget): \u20b99.55 | Operator 8: \u20b913.91",
+            "price": 9.55,
+            "operators": {
+                "uotp_955": {
+                    "name": "Operator (\u20b99.55)",
+                    "price": 9.55,
+                    "operator_id": "1",
+                    "service": "bme"
+                },
+                "8": {
+                    "name": "Operator 8 (\u20b913.91)",
+                    "price": 13.91,
+                    "operator_id": "8",
+                    "service": "bme"
+                }
+            }
+        }
+    }
+}

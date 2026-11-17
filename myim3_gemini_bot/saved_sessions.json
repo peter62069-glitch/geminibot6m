@@ -1,0 +1,10 @@
+[
+  {
+    "phone": "6285849162592",
+    "token_id": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.test_token_123",
+    "gemini_link": "https://apigw.ioh.co.id/shrt?o=G1-NjI4NTg0OTE2MjU5MiNHMUFJX1BST01PIzE3ODEwOTA5ODU4Njk=",
+    "direct_google_url": "https://one.google.com/promo/test",
+    "saved_at": "2026-11-16 22:04:50",
+    "source": "Test Verification"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "batch_id": "B_20261116_181627_7854",
+    "batch_name": "Batch #16-Nov 18:16 (Verified Claims • 2 Links)",
+    "label": "Verified Claims",
+    "links": [
+      "https://apigw.ioh.co.id/shrt?o=G1-NjI4NTg0OTE2MjU5MiNHMUFJX1BST01PIzE3ODEwOTA5ODU4Njk=",
+      "https://apigw.ioh.co.id/shrt?o=G1-NjI4NTg4MTY2NDEzOCNHMUFJX1BST01PIzE3OTA0NTIzNTc4MDI="
+    ],
+    "phones": [
+      "6285849162592",
+      "6285881664138"
+    ],
+    "count": 2,
+    "created_at": 1794833187.8548613,
+    "created_time_str": "2026-11-16 18:16:27",
+    "expires_at": 1794876387.8548613,
+    "expiry_time_str": "2026-11-17 06:16:27"
+  }
+]

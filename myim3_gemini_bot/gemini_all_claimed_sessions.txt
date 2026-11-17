@@ -1,0 +1,8 @@
+# ========================================================
+# MyIM3 Google Gemini 6M Master Claimed Sessions Database
+# Format: [Date] Phone | Gemini Link | Token
+# ========================================================
+
+[2026-11-16 21:58:27] Phone: +6285849162592 | Link: https://apigw.ioh.co.id/shrt?o=test | Token: test_token_123
+[2026-11-16 21:58:32] Phone: +6285849162592 | Link: https://apigw.ioh.co.id/shrt?o=G1-NjI4NTg0OTE2MjU5MiNHMUFJX1BST01PIzE3ODEwOTA5ODU4Njk= | Token: test_token_123
+[2026-11-16 22:04:50] Phone: +6285849162592 | Link: https://apigw.ioh.co.id/shrt?o=G1-NjI4NTg0OTE2MjU5MiNHMUFJX1BST01PIzE3ODEwOTA5ODU4Njk= | Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.test_token_123

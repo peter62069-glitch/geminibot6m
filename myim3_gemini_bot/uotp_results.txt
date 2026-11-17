@@ -1,0 +1,15 @@
+=== Testing service is ===
+service=is, op=1 -> NO_CONNECTION
+service=is, op=3 -> NO_CONNECTION
+service=is, op=4 -> NO_CONNECTION
+service=is, op=5 -> NO_CONNECTION
+service=is, op=6 -> NO_CONNECTION
+service=is, op=7 -> NO_CONNECTION
+service=is, op=8 -> NO_BALANCE
+service=is, op=9 -> NO_CONNECTION
+service=is, op=10 -> NO_CONNECTION
+service=is, op=11 -> NO_CONNECTION
+service=is, op=12 -> NO_CONNECTION
+=== Testing service im3 ===
+=== Testing service myim3 ===
+=== Testing service indosat ===
